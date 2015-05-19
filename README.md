@@ -1,2 +1,4 @@
 # Pantimos
-A Simple Mock Tools.
+
+前端离线开发环境，为了能在开发过程中偷懒而不懈努力。
+
