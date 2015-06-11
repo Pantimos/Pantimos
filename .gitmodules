@@ -7,3 +7,6 @@
 [submodule "mockimage.pantimos.io/public"]
 	path = mockimage.pantimos.io/public
 	url = https://github.com/Pantimos/MockImage.git
+[submodule "state.pantimos.io/public"]
+	path = state.pantimos.io/public
+	url = git@github.com:Pantimos/State.Pantimos.git
