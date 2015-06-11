@@ -4,3 +4,6 @@
 [submodule "files.pantimos.io/public"]
 	path = files.pantimos.io/public
 	url = https://github.com/Pantimos/Files.Pantimos.git
+[submodule "mockimage.pantimos.io/public"]
+	path = mockimage.pantimos.io/public
+	url = https://github.com/Pantimos/MockImage.git
