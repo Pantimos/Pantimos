@@ -1,3 +1,6 @@
 [submodule "dashboard.pantimos.io/public"]
 	path = dashboard.pantimos.io/public
 	url = https://github.com/Pantimos/Dashboard.Pantimos.git
+[submodule "files.pantimos.io/public"]
+	path = files.pantimos.io/public
+	url = https://github.com/Pantimos/Files.Pantimos.git
