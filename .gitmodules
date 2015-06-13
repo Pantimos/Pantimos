@@ -1,12 +1,16 @@
 [submodule "dashboard.pantimos.io/public"]
 	path = dashboard.pantimos.io/public
 	url = https://github.com/Pantimos/Dashboard.Pantimos.git
+	brance = master
 [submodule "files.pantimos.io/public"]
 	path = files.pantimos.io/public
 	url = https://github.com/Pantimos/Files.Pantimos.git
+	brance = master
 [submodule "mockimage.pantimos.io/public"]
 	path = mockimage.pantimos.io/public
 	url = https://github.com/Pantimos/MockImage.git
+	brance = master
 [submodule "state.pantimos.io/public"]
 	path = state.pantimos.io/public
 	url = git@github.com:Pantimos/State.Pantimos.git
+	brance = master
