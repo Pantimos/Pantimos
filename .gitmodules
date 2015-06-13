@@ -14,3 +14,6 @@
 	path = state.pantimos.io/public
 	url = git@github.com:Pantimos/State.Pantimos.git
 	brance = master
+[submodule "sprite.pantimos.io/public"]
+	path = sprite.pantimos.io/public
+	url = git@github.com:Pantimos/Sprite.Pantimos.git
